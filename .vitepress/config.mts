@@ -74,7 +74,6 @@ export default defineConfig({
         },
     },
     themeConfig: {
-        // https://vitepress.dev/reference/default-theme-config
         logo: "https://avatars.githubusercontent.com/u/25738532?v=4",
         darkModeSwitchLabel: "主题",
         sidebarMenuLabel: "菜单",
@@ -89,7 +88,6 @@ export default defineConfig({
             next: "下一页",
         },
         nav: navBar,
-        sidebar: sideBar,
         socialLinks: [
             {
                 icon: "github",

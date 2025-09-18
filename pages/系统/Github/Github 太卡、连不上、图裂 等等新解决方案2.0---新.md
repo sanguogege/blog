@@ -2,11 +2,11 @@
 Author: sanguogege
 Date: 2025-04-20 00:48:45
 LastEditors: sanguogege
-LastEditTime: 2025-04-20 01:39:52
+LastEditTime: 2025-09-18 22:08:58
 Description: "Github太卡、连不上、图裂 等等新解决方案2.0！！"
 ---
 
-## Github 太卡、连不上、图裂 等等新解决方案 2.0！！
+# Github 太卡、连不上、图裂 等等新解决方案 2.0！！
 
 之前给大家推荐 SwitchHosts 这个软件，效果其实很不错，然每次启动总是需要点步骤。
 
