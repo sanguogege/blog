@@ -1,0 +1,19 @@
+---
+Author: sanguogege
+Date: 2025-04-20 00:48:45
+LastEditors: sanguogege
+LastEditTime: 2025-04-20 01:39:52
+Description: "Github太卡、连不上、图裂 等等新解决方案2.0！！"
+---
+
+## Github 太卡、连不上、图裂 等等新解决方案 2.0！！
+
+之前给大家推荐 SwitchHosts 这个软件，效果其实很不错，然每次启动总是需要点步骤。
+
+不过我在浏览信息的时候，又发现了新的一种方案。
+
+那就是 steam++，不过作者太给力，已经更新新名为**watt toolkit**！
+
+微软的软件商店即可下载。
+
+这个呢使用更简单，在第一页下拉选中 github 后启动即可。
