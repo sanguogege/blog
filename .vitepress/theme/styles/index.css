@@ -1,0 +1,12 @@
+.VPHero.has-image .text {
+    margin: 32px 0 !important;
+    font-size: 40px !important;
+}
+
+.vp-doc [class*="language-"] pre {
+    padding-top: 40px;
+}
+
+.vp-doc [class*="language-"] code {
+    padding: 0;
+}

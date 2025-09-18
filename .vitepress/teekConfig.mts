@@ -19,7 +19,8 @@ export const teekConfig = defineTeekConfig({
     articleShare: { enabled: true },
     vitePlugins: {
         sidebarOption: {
-            initItems: false,
+            // initItems: false,
+            collapsed: true,
         },
     },
 });
