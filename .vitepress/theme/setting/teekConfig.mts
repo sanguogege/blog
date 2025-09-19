@@ -144,7 +144,7 @@ export const teekBlogFullConfig: TeekConfig = {
         coverImgMode: "full",
     },
     banner: {
-        name: "🎉 Teek Blog",
+        name: "🎉 博客大图配置",
         bgStyle: "fullImg",
         imgSrc: ["/blog/ST.jpg"],
         description: [
@@ -176,7 +176,7 @@ export const teekBlogBodyConfig: TeekConfig = {
         imgSrc: ["/blog/ST.jpg"],
     },
     banner: {
-        name: "🎉 Teek Blog",
+        name: "🎉 博客全图配置",
         description: [
             "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
             "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
@@ -199,7 +199,7 @@ export const teekBlogCardConfig: TeekConfig = {
     },
     homeCardListPosition: "left",
     banner: {
-        name: "🎉 Teek Blog",
+        name: "🎉 博客卡片配置",
         bgStyle: "fullImg",
         imgSrc: ["/blog/ST.jpg"],
         description: [
