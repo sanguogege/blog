@@ -94,12 +94,12 @@
 </template>
 
 <style lang="css">
-    /* .tk-my.is-circle-bg .tk-my__avatar.circle-rotate {
+    .tk-my.is-circle-bg .tk-my__avatar.circle-rotate {
         margin-top: 200px;
     }
     .tk-my.is-circle-bg
         .tk-my__avatar.circle-rotate
         .tk-avatar:not(.avatar-sticker) {
         border: 5px solid var(--vp-c-bg-elv);
-    } */
+    }
 </style>
