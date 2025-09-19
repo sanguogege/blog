@@ -91,7 +91,7 @@ export default defineConfig({
         socialLinks: [
             {
                 icon: "github",
-                link: "https://github.com/Kele-Bingtang/vitepress-theme-teek",
+                link: "https://github.com/sanguogege/blog",
             },
         ],
         search: {
