@@ -1,6 +1,8 @@
 {
   "dependencies": {},
   "devDependencies": {
+    "@types/bun": "^1.2.22",
+    "echarts": "^6.0.0",
     "vitepress": "^2.0.0-alpha.12",
     "vitepress-plugin-llms": "^1.7.5",
     "vitepress-theme-teek": "^1.4.6",

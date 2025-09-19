@@ -4,7 +4,7 @@ import llmstxt from "vitepress-plugin-llms";
 import { teekConfig } from "./teekConfig.mts";
 // Teek 主题配置
 
-import { srcDir, sideBar, navBar } from "./utils/getFiles.mjs";
+import { srcDir, sideBar, navBar } from "./utils/getFiles.mts";
 
 const description = [
     "欢迎来到 vitepress-theme-teek 使用文档",
@@ -56,7 +56,7 @@ export default defineConfig({
         },
     },
     sitemap: {
-        hostname: "https://vp.teek.top", //TODO ** 换成你的域名
+        hostname: "https://sanguogege.netlify.app/", //TODO ** 换成你的域名
         transformItems: (items) => {
             const permalinkItemBak: typeof items = [];
             // 使用永久链接生成 sitemap
@@ -78,7 +78,7 @@ export default defineConfig({
         darkModeSwitchLabel: "主题",
         sidebarMenuLabel: "菜单",
         returnToTopLabel: "返回顶部",
-        lastUpdatedText: "上次更新时间",
+        lastUpdatedText: "更新时间",
         outline: {
             level: [2, 4],
             label: "本页导航",
@@ -99,8 +99,7 @@ export default defineConfig({
         },
         editLink: {
             text: "在 GitHub 上编辑此页",
-            pattern:
-                "https://github.com/Kele-Bingtang/vitepress-theme-teek/edit/master/docs/:path",
+            pattern: "https://github.com/sanguogege/blog/edit/main/pages/:path",
         },
     },
     vite: {
