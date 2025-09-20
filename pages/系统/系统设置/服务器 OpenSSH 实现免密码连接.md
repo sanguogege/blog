@@ -3,12 +3,13 @@ title: 服务器 OpenSSH 实现免密码连接
 date: 2025-04-20 08:25:44
 permalink: /pages/3a847b
 categories:
-  - 系统
-  - 系统设置
+    - 系统
+    - 系统设置
 ---
 
+# 服务器 OpenSSH 实现免密码连接
 
-# 图片较多，请移步 [ 服务器 OpenSSH 实现免密码连接](https://blog.csdn.net/qq_21874123/article/details/105429485)
+## 图片较多，请移步 [ 服务器 OpenSSH 实现免密码连接](https://blog.csdn.net/qq_21874123/article/details/105429485)
 
 这个云服务器安装可把我给坑到了。
 CentOS 版本不一样可能会有所区别，我使用的 CentOS8.0，系统自带 openssh-clients 和 openssh-server，而有的版本只默认开启 clients 服务。安装的方法有很多，可查阅相关文章，我是推荐我用到的。

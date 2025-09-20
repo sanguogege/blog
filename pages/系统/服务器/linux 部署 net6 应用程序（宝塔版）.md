@@ -3,10 +3,11 @@ title: linux 部署 net6 应用程序（宝塔版）
 date: 2025-06-19 05:48:45
 permalink: /pages/e2999a
 categories:
-  - 系统
-  - 服务器
+    - 系统
+    - 服务器
 ---
 
+# linux 部署 net6 应用程序（宝塔版）
 
 ## 宝塔为最新版本 7.9.3+
 

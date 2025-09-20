@@ -9,7 +9,7 @@ categories:
 
 # Win10 开启 OpenSSH
 
-# 图片较多，请移步 [win10 开启 OpenSSH 服务](https://blog.csdn.net/qq_21874123/article/details/105428708)
+## 图片较多，请移步 [win10 开启 OpenSSH 服务](https://blog.csdn.net/qq_21874123/article/details/105428708)
 
 1. 打开设置 ------ 应用 ------ 可选功能 ------ 添加功能 ------ 找到 OpenSSH、OpenSSH 选择安装就可以了。
    ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/a2bc1594a12dfc3236c7b0af460bacfc.png)

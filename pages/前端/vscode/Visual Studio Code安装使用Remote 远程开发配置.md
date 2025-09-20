@@ -3,13 +3,13 @@ title: Visual Studio Code安装使用Remote 远程开发配置
 date: 2025-09-19 04:48:45
 permalink: /pages/30ffd4
 categories:
-  - 前端
-  - vscode
+    - 前端
+    - vscode
 ---
 
 # Visual Studio Code 安装使用 Remote 远程开发配置
 
-# 图片较多，请移步 [Visual Studio Code 安装使用 Remote 远程开发配置](https://blog.csdn.net/qq_21874123/article/details/105425444)
+## 图片较多，请移步 [Visual Studio Code 安装使用 Remote 远程开发配置](https://blog.csdn.net/qq_21874123/article/details/105425444)
 
 ## 简介
 

@@ -3,13 +3,14 @@ title: VitePress接入giscus
 date: 2025-09-19 04:48:45
 permalink: /pages/5cbcff
 categories:
-  - 前端
-  - vite
+    - 前端
+    - vite
 ---
 
 # VitePress 搭建-接入 giscus 的注意事项。
 
-如何创建就不说了。教程很多。
+## 如何创建就不说了。教程很多。
+
 "C:\Users\sangu\AppData\Local\Programs\Microsoft VS Code\Code.exe"
 说几个注意项目。
 

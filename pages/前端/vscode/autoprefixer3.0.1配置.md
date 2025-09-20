@@ -1,10 +1,10 @@
 ---
-title: 0.1配置
+title: autoprefixer3.0.1 配置
 date: 2025-09-19 04:48:45
 permalink: /pages/f3df09
 categories:
-  - 前端
-  - vscode
+    - 前端
+    - vscode
 ---
 
 # autoprefixer3.0.1 配置

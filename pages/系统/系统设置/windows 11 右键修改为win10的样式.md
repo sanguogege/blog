@@ -3,13 +3,13 @@ title: windows 11 右键修改为win10的样式
 date: 2025-05-31 04:48:45
 permalink: /pages/b7a1b3
 categories:
-  - 系统
-  - 系统设置
+    - 系统
+    - 系统设置
 ---
 
 # windows 11 右键修改为 win10 的样式
 
-# 早期记录图片不少， 看图 移步 [windows 11 右键修改为 win10 的样式](https://blog.csdn.net/qq_21874123/article/details/126426229)
+## 早期记录图片不少， 看图 移步 [windows 11 右键修改为 win10 的样式](https://blog.csdn.net/qq_21874123/article/details/126426229)
 
 众所周知，win10 是 windows 的最后一个版本。
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/5a82e89bfd551d14b0f85b62d3dc212b.png)

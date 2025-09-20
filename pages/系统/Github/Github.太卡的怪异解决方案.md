@@ -1,10 +1,10 @@
 ---
-title: com 太卡的怪异解决方案
+title: Github太卡的怪异解决方案
 date: 2025-04-26 04:48:45
 permalink: /pages/1734ba
 categories:
-  - 系统
-  - Github
+    - 系统
+    - Github
 ---
 
 # Github.com 太卡或者连不上怎么办
