@@ -110,7 +110,9 @@ export const teekBlogParkConfig: TeekConfig = {
     banner: {
         name: "🎉 Teek Blog",
         bgStyle: "partImg",
-        imgSrc: ["/blog/ST.jpg"],
+        imgSrc: [
+            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
+        ],
         description: [
             "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
             "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
@@ -118,23 +120,23 @@ export const teekBlogParkConfig: TeekConfig = {
         ],
         descStyle: "switch",
     },
-    footerGroup: [
-        {
-            title: "外部链接",
-            links: [
-                { name: "示例 1", link: "https://vp.teek.top" },
-                { name: "示例 2", link: "https://vp.teek.top" },
-                { name: "示例 3", link: "https://vp.teek.top" },
-            ],
-        },
-        {
-            title: "内部链接",
-            links: [
-                { name: "快速开始", link: "/guide/quickstart" },
-                { name: "配置简介", link: "/reference/config" },
-            ],
-        },
-    ],
+    // footerGroup: [
+    //     {
+    //         title: "外部链接",
+    //         links: [
+    //             { name: "示例 1", link: "https://vp.teek.top" },
+    //             { name: "示例 2", link: "https://vp.teek.top" },
+    //             { name: "示例 3", link: "https://vp.teek.top" },
+    //         ],
+    //     },
+    //     {
+    //         title: "内部链接",
+    //         links: [
+    //             { name: "快速开始", link: "/guide/quickstart" },
+    //             { name: "配置简介", link: "/reference/config" },
+    //         ],
+    //     },
+    // ],
 };
 
 // 博客大图配置
@@ -146,7 +148,9 @@ export const teekBlogFullConfig: TeekConfig = {
     banner: {
         name: "🎉 博客大图配置",
         bgStyle: "fullImg",
-        imgSrc: ["/blog/ST.jpg"],
+        imgSrc: [
+            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
+        ],
         description: [
             "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
             "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
@@ -157,10 +161,10 @@ export const teekBlogFullConfig: TeekConfig = {
     comment: {
         provider: "giscus",
         options: {
-            repo: "Kele-Bingtang/vitepress-theme-teek",
-            repoId: "R_kgDONpVfBA",
-            category: "Announcements",
-            categoryId: "DIC_kwDONpVfBM4Cm3v9",
+            repo: "sanguogege/blog",
+            repoId: "R_kgDOObQJQQ",
+            category: "general",
+            categoryId: "DIC_kwDOObQJQc4CpRne",
         },
     },
     codeBlock: {
@@ -173,7 +177,9 @@ export const teekBlogBodyConfig: TeekConfig = {
     ...teekBlogCommonConfig,
     pageStyle: "segment-nav",
     bodyBgImg: {
-        imgSrc: ["/blog/ST.jpg"],
+        imgSrc: [
+            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
+        ],
     },
     banner: {
         name: "🎉 博客全图配置",
