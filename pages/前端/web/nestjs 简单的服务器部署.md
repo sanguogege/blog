@@ -1,6 +1,6 @@
 ---
 title: nestjs 简单的服务器部署
-date: 2024-10-21 12:48:45
+date: 2024-10-24 20:48:45
 categories:
   - 前端
   - web

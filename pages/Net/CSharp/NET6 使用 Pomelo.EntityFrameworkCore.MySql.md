@@ -1,6 +1,6 @@
 ---
 title: EntityFrameworkCore.MySql
-date: 2025-05-22 16:30:52
+date: 2025-05-26 00:30:52
 categories:
   - Net
   - CSharp

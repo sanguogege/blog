@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Code安装使用Remote 远程开发配置
-date: 2024-10-21 12:48:45
+date: 2024-10-24 20:48:45
 categories:
   - 前端
   - vscode

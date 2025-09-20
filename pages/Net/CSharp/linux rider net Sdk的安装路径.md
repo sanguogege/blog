@@ -1,6 +1,6 @@
 ---
 title: linux rider net Sdk的安装路径
-date: 2025-06-24 11:07:30
+date: 2025-06-27 19:07:30
 categories:
   - Net
   - CSharp

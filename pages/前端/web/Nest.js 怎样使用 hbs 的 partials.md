@@ -1,6 +1,6 @@
 ---
 title: js 怎样使用 hbs 的 partials
-date: 2023-04-20 12:48:45
+date: 2023-04-23 20:48:45
 categories:
   - 前端
   - web

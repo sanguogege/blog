@@ -1,6 +1,6 @@
 ---
 title: net6 连接mysql 双表联查
-date: 2025-05-22 16:21:17
+date: 2025-05-26 00:21:17
 categories:
   - Net
   - CSharp

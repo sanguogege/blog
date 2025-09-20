@@ -21,7 +21,7 @@ async function getSideBar(params: any, pathname: string) {
             await getSideBar(subFiles, `${pathname}/${file.name}`);
         } else {
             res.push({
-                text: file.name,
+                text: file.name.replace(".md", ""),
                 link: `${pathname}/${file.name}`,
             });
             sideBar[pathname] = res;
