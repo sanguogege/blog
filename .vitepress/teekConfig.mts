@@ -33,14 +33,24 @@ export const teekConfig = defineTeekConfig({
             initItems: false,
         },
         autoFrontmatter: true,
+        permalink: false,
         autoFrontmatterOption: {
-            transform: (pageData) => {
-                pageData = {
-                    ...pageData,
-                    description: pageData.description || "",
+            transform: (frontmatter) => {
+                // 'frontmatter' 是插件自动生成的对象
+                // 假设它可能包含也可能不包含 tags
+
+                // 确保 tags 字段存在且为数组格式
+                const tags = frontmatter.categories;
+
+                // 你还可以在这里根据其他信息动态添加标签
+                // 例如，如果文件路径包含 'vite'，就添加 'vite' 标签
+
+                // 返回最终的 frontmatter 对象
+                return {
+                    ...frontmatter,
+                    description: frontmatter.description || "暂无描述", // 也可以给 description 设置默认值
+                    tags: tags, // 确保返回的是数组
                 };
-                delete pageData.permalink;
-                return pageData;
             },
         },
     },

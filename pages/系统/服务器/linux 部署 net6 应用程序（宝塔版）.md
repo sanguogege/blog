@@ -1,9 +1,9 @@
 ---
 title: linux 部署 net6 应用程序（宝塔版）
-date: 2025-07-25 05:48:45
+date: 2025-07-25 13:48:45
 categories:
-  - 系统
-  - 服务器
+    - 系统
+    - 服务器
 description: linux 部署 net6 应用程序（宝塔版）首先在 VS2022 上面把应用编译成 linux 上的运行文件！
 ---
 

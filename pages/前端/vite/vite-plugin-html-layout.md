@@ -1,9 +1,9 @@
 ---
 title: vite-plugin-html-layout
-date: 2024-10-25 04:48:45
+date: 2024-10-25 12:48:45
 categories:
-  - 前端
-  - vite
+    - 前端
+    - vite
 description: 此插件专用于 vite 指定一个 html 页面为模板页。指定一个文件夹为存放具体页面地方。
 ---
 

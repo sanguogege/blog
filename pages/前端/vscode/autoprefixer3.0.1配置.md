@@ -1,9 +1,9 @@
 ---
 title: autoprefixer3.0.1 配置
-date: 2024-10-25 04:48:45
+date: 2024-10-25 12:48:45
 categories:
-  - 前端
-  - vscode
+    - 前端
+    - vscode
 description: 网上一看全是改版本，妈的这些狗比做 seo 的真坑。搜了半天，一看，还是有答主给力的，虽然不知道是首发，但确实按搜索往下拉的第一个。
 ---
 

@@ -1,9 +1,9 @@
 ---
-date: 2024-10-24 20:48:45
+date: 2024-10-25 04:48:45
 title: Avalonia MenuFlyout动态生成
 categories:
-  - Net
-  - Avalonia
+    - Net
+    - Avalonia
 description: MenuFlyout 的动态生成方法有很多，不过有时候确实挺蛋疼的。这是最常见的静态写法。
 ---
 

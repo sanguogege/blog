@@ -1,9 +1,9 @@
 ---
 title: Avalonia ContentControl 内容切换
-date: 2025-05-26 16:15:34
+date: 2025-05-27 00:15:34
 categories:
-  - Net
-  - Avalonia
+    - Net
+    - Avalonia
 description: 使用 ContentControl 来根据不同的值来切换对应的内容。使用控制数据模板 IDataTemplate 来实现。
 ---
 
