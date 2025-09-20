@@ -42,7 +42,6 @@ export const teekConfig = defineTeekConfig({
                 delete pageData.permalink;
                 return pageData;
             },
-            recoverTransform: true,
         },
     },
 });
