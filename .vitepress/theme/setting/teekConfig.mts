@@ -30,52 +30,10 @@ const teekBlogCommonConfig: TeekConfig = {
     friendLink: {
         list: [
             {
-                name: "Teeker",
-                desc: "朝圣的使徒，正在走向编程的至高殿堂！",
-                avatar: "https://testingcf.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar2.png",
-                link: "http://notes.teek.top/",
-            },
-            {
-                name: "vuepress-theme-vdoing",
-                desc: "🚀一款简洁高效的VuePress 知识管理&博客 主题",
-                avatar: "https://doc.xugaoyi.com/img/logo.png",
-                link: "https://doc.xugaoyi.com/",
-            },
-            {
-                name: "One",
-                desc: "明心静性，爱自己",
-                avatar: "https://onedayxyy.cn/img/xyy.webp",
-                link: "https://onedayxyy.cn/",
-            },
-            {
-                name: "Hyde Blog",
-                desc: "人心中的成见是一座大山",
-                avatar: "https://teek.seasir.top/avatar/avatar.webp",
-                link: "https://teek.seasir.top/",
-            },
-            {
-                name: "二丫讲梵",
-                desc: "💻学习📝记录🔗分享",
-                avatar: "https://wiki.eryajf.net/img/logo.png",
-                link: " https://wiki.eryajf.net/",
-            },
-            {
-                name: "粥里有勺糖",
-                desc: "简约风的 VitePress 博客主题",
-                avatar: "https://theme.sugarat.top/logo.png",
-                link: "https://theme.sugarat.top/",
-            },
-            {
-                name: "VitePress 快速上手中文教程",
-                desc: "如果你也想搭建它，那跟我一起做吧",
-                avatar: "https://avatars.githubusercontent.com/u/90893790?v=4",
-                link: "https://vitepress.yiov.top/",
-            },
-            {
-                name: "友人A",
-                desc: "おとといは兎をみたの，昨日は鹿，今日はあなた",
-                avatar: "http://niubin.site/logo.jpg",
-                link: "http://niubin.site/",
+                name: "MasterYu",
+                desc: "我就是人人",
+                avatar: "https://avatars.githubusercontent.com/u/211842652?s=400&v=4",
+                link: "https://github.com/MasterFrontEndYu",
             },
         ],
         autoScroll: true,
@@ -110,9 +68,7 @@ export const teekBlogParkConfig: TeekConfig = {
     banner: {
         name: "🗡︎ 满堂花醉三千客，一剑霜寒十四州。",
         bgStyle: "partImg",
-        imgSrc: [
-            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
-        ],
+        imgSrc: ["blog/ST.jpg"],
         description: [
             "夫天地者万物之逆旅也；光阴者百代之过客也。",
             "而浮生若梦，为欢几何？",
@@ -160,9 +116,7 @@ export const teekBlogFullConfig: TeekConfig = {
     banner: {
         name: "🏆 莫愁前路无知己，天下谁人不识君。",
         bgStyle: "fullImg",
-        imgSrc: [
-            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
-        ],
+        imgSrc: ["blog/ST.jpg"],
         description: [
             "云想衣裳花想容，春风拂槛露华浓。",
             "若非群玉山头见，会向瑶台月下逢。 ",
@@ -189,9 +143,7 @@ export const teekBlogBodyConfig: TeekConfig = {
     ...teekBlogCommonConfig,
     pageStyle: "segment-nav",
     bodyBgImg: {
-        imgSrc: [
-            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
-        ],
+        imgSrc: ["blog/ST.jpg"],
     },
     banner: {
         name: "💻 Code Is Cheap, Show Me Your Nation",
@@ -231,9 +183,7 @@ export const teekBlogCardConfig: TeekConfig = {
     banner: {
         name: "📖 书山有路勤为径，学海无涯苦作舟",
         bgStyle: "fullImg",
-        imgSrc: [
-            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
-        ],
+        imgSrc: ["blog/ST.jpg"],
         description: [
             "休对故人思故国，且将新火试新茶。诗酒趁年华。",
             "粗缯大布裹生涯，腹有诗书气自华。",

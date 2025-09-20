@@ -65,7 +65,7 @@ async function getNavBar(realFiles: any, pathname: string) {
 // 文件根目录
 const srcDir = "./pages";
 // 过滤名单
-const FILTER_LIST = ["index.md", "@fragment", "@pages"];
+const FILTER_LIST = ["index.md", "@fragment", "@pages", "public"];
 
 // 过滤名单文件夹
 const sideBar: { [key: string]: DefaultTheme.SidebarItem[] } = {};

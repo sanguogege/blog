@@ -27,7 +27,7 @@ export default defineConfig({
             "link",
             {
                 rel: "icon",
-                href: "https://raw.githubusercontent.com/sanguogege/blog/refs/heads/main/public/favicon.ico",
+                href: "blog/favicon.ico",
             },
         ],
         ["meta", { property: "og:type", content: "website" }],
