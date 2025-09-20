@@ -1,12 +1,16 @@
 ---
+date: 2025-05-27 08:49:26
 title: Github 太卡、连不上、图裂 等等新解决方案
-date: 2025-05-27 00:49:26
+permalink: /pages/99f216
 categories:
     - 系统
     - Github
 tags:
-    - 加速
+    - 系统
     - Github
+top: false
+sticky:
+titleTag:
 description: >-
     之前分享过关于 Github 浏览太卡、连不上的问题的解决方案，当时确实感觉良好。但后来一看，还是一个坑爹方案，不过由于我常用的是
     gitee（也就是码云），所以有段时间没注意到。

@@ -1,13 +1,17 @@
 ---
+date: 2025-05-27 08:30:52
 title: EntityFrameworkCore.MySql
-date: 2025-05-27 00:30:52
+permalink: /pages/6c0282
 categories:
     - Net
     - CSharp
 tags:
-    - NET6
-    - MySql
-description: >-
+    - Net
+    - CSharp
+top: false
+sticky:
+titleTag:
+description:
     关于 net6 使用了 6.0 版本 Pomelo.EntityFrameworkCore.MySql 会报 configuration 再此处不为
     null 的错误。
 ---

@@ -1,12 +1,16 @@
 ---
+date: 2025-05-27 08:17:01
 title: MessageBox父窗口
-date: 2025-05-27 00:17:01
+permalink: /pages/e0442a
 categories:
     - Net
     - Avalonia
 tags:
-    - MessageBox
+    - Net
     - Avalonia
+top: false
+sticky:
+titleTag:
 description: 由于 ViewModel 中没有 window，所以 在 ViewModel 中使用 MessageBox 就是原地弹窗，不会跟着窗体走。
 ---
 

@@ -3,9 +3,9 @@ import { defineTeekConfig } from "vitepress-theme-teek/config";
 export const teekConfig = defineTeekConfig({
     sidebarTrigger: true,
     blogger: {
-        name: "天客",
-        slogan: "朝圣的使徒，正在走向编程的至高殿堂！",
-        avatar: "https://testingcf.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar1.png",
+        name: "悠悠清闲人",
+        slogan: "知识的海洋，总是让人流连忘返！",
+        avatar: "https://avatars.githubusercontent.com/u/25738532?v=4",
         shape: "circle-rotate",
         circleBgImg: "/blog/bg4.webp",
         color: "#ffffff",

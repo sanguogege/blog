@@ -1,12 +1,16 @@
 ---
+date: 2025-06-29 03:07:30
 title: linux rider net Sdk的安装路径
-date: 2025-06-28 19:07:30
+permalink: /pages/c5cf00
 categories:
     - Net
     - CSharp
 tags:
-    - linux
-    - rider
+    - Net
+    - CSharp
+top: false
+sticky:
+titleTag:
 description: >-
     仅记录一下，场景：新的 linux 为了写 C# ，安装了 rider，手快点了安装 net SDK。然后，发现在 bash 里 dotnet
     的命令不管用，比如 Avalonia 的模板就装不上，这不白搭了么。

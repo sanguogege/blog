@@ -1,12 +1,16 @@
 ---
+date: 2024-10-26 04:48:45
 title: autoprefixer3.0.1 配置
-date: 2024-10-25 20:48:45
+permalink: /pages/06482b
 categories:
     - 前端
     - vscode
 tags:
-    - autoprefixer3
-    - vscode插件
+    - 前端
+    - vscode
+top: false
+sticky:
+titleTag:
 description: 网上一看全是改版本，妈的这些狗比做 seo 的真坑。搜了半天，一看，还是有答主给力的，虽然不知道是首发，但确实按搜索往下拉的第一个。
 ---
 

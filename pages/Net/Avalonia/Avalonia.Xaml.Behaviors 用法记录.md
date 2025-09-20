@@ -1,12 +1,16 @@
 ---
-date: 2025-08-26 12:48:45
+date: 2025-08-26 20:48:45
 title: Avalonia.Xaml.Behaviors 用法记录
+permalink: /pages/e03de4
 categories:
     - Net
     - Avalonia
 tags:
-    - Behaviors
+    - Net
     - Avalonia
+top: false
+sticky:
+titleTag:
 description: 在 Avalonia 里使用 Avalonia.Xaml.Behaviors
 ---
 

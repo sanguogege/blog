@@ -1,13 +1,17 @@
 ---
+date: 2024-10-26 04:48:45
 title: Visual Studio Code安装使用Remote 远程开发配置
-date: 2024-10-25 20:48:45
+permalink: /pages/abf0c9
 categories:
     - 前端
     - vscode
 tags:
-    - vscode Remote
-    - vscode插件
-description:
+    - 前端
+    - vscode
+top: false
+sticky:
+titleTag:
+description: >-
     它来了，它来了，它带着 Remote 走来了，微软发布了 VS Code Remote，这里主要记录一下 Win10 下配置 VS Code 使用 SSH
     连接远程开发调试的心得，忙了几个小时的辛酸，只能说自己太傻。
 ---

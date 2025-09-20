@@ -1,12 +1,16 @@
 ---
+date: 2024-10-26 04:48:45
 title: VitePress接入giscus
-date: 2024-10-25 20:48:45
+permalink: /pages/a5e3ed
 categories:
     - 前端
     - vite
 tags:
-    - VitePress
-    - giscus
+    - 前端
+    - vite
+top: false
+sticky:
+titleTag:
 description: VitePress 搭建-接入 giscus 的注意事项。 如何创建就不说了。教程很多。
 ---
 

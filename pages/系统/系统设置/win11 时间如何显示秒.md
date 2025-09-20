@@ -1,12 +1,16 @@
 ---
+date: 2025-07-26 04:48:45
 title: win11 时间如何显示秒
-date: 2025-07-25 20:48:45
+permalink: /pages/cfe5d1
 categories:
     - 系统
     - 系统设置
 tags:
-    - win11
+    - 系统
     - 系统设置
+top: false
+sticky:
+titleTag:
 description: win11 时间如何显示秒 第一种：修改注册列表 第二种：有些 win11 版本没有。
 ---
 
