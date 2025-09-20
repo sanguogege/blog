@@ -23,6 +23,7 @@ export default defineConfig({
     lang: "zh-CN",
     cleanUrls: false,
     lastUpdated: true,
+    
     head: [
         [
             "link",

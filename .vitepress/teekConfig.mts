@@ -16,6 +16,14 @@ export const teekConfig = defineTeekConfig({
             title: "困",
         },
     },
+    siteAnalytics: [
+        {
+            provider: "baidu",
+            options: {
+                id: "e8b2c7a199caa8d2d8ba6992b8407304",
+            },
+        },
+    ],
     author: { name: "sanguogege", link: "https://github.com/sanguogege" },
     footerInfo: {
         copyright: {

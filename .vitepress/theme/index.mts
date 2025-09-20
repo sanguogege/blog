@@ -14,6 +14,9 @@ import "vitepress-theme-teek/theme-chalk/tk-banner-full-img-scale.css";
 import "vitepress-theme-teek/theme-chalk/tk-fade-up-animation.css";
 import "vitepress-theme-teek/theme-chalk/tk-home-card-hover.css";
 
+import "vitepress-theme-teek/theme-chalk/tk-container.css";
+import "vitepress-theme-teek/theme-chalk/tk-blockquote.css";
+
 import "./styles/index.css";
 
 export default {

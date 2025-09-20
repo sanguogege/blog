@@ -8,6 +8,9 @@
     import { useRuntime } from "../composables/useRuntime.mts";
     import ConfigSwitch from "./ConfigSwitch.vue";
     import NotFound from "./404.vue";
+    import TitleChange from "./TitleChange.vue";
+    import GlobalGreet from "./GlobalGreet.vue";
+    import ContributeChart from "./ContributeChart.vue";
 
     const ns = "layout-provider";
     const { frontmatter } = useData();
@@ -73,6 +76,8 @@
 </script>
 
 <template>
+    <TitleChange />
+    <GlobalGreet />
     <Teek.Layout>
         <template #teek-theme-enhance-bottom>
             <div :class="[ns, 'flx-align-center']">
@@ -85,6 +90,11 @@
 
         <template #nav-screen-content-after>
             <ConfigSwitch v-model="currentStyle" @switch="handleConfigSwitch" />
+        </template>
+
+        <template #teek-archives-top-before>
+            <!-- 贡献图表 -->
+            <ContributeChart />
         </template>
 
         <template #not-found>
