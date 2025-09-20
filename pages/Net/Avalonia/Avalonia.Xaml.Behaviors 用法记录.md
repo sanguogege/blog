@@ -1,8 +1,11 @@
 ---
-date: 2025-08-26 04:48:45
+date: 2025-08-26 12:48:45
 title: Avalonia.Xaml.Behaviors 用法记录
 categories:
     - Net
+    - Avalonia
+tags:
+    - Behaviors
     - Avalonia
 description: 在 Avalonia 里使用 Avalonia.Xaml.Behaviors
 ---

@@ -1,8 +1,11 @@
 ---
 title: TreeDataGrid自定义模板
-date: 2025-05-27 12:48:45
+date: 2025-05-27 20:48:45
 categories:
     - Net
+    - Avalonia
+tags:
+    - TreeDataGrid
     - Avalonia
 description: Avalonia 使用 TreeDataGrid 自定义模板 分层树数据表格，Avalonia.Controls.TreeDataGrid 。
 ---

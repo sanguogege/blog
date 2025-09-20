@@ -1,9 +1,12 @@
 ---
 title: windows 11 右键修改为win10的样式
-date: 2025-07-06 12:48:45
+date: 2025-07-06 20:48:45
 categories:
     - 系统
     - 系统设置
+tags:
+    - win10
+    - win11
 description: windows 11 右键修改为 win10 的样式，众所周知，win10 是 windows 的最后一个版本。
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: js 怎样使用 hbs 的 partials
-date: 2023-04-24 12:48:45
+date: 2023-04-24 20:48:45
 categories:
     - 前端
+    - web
+tags:
+    - Nestjs
     - web
 description: >-
     当你在使用 Nest.js 的时候，安装 hbs 就可以使用 Handerbars 作为模版引擎。但是 Nest.js 没有提供 hbs

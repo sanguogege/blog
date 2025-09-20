@@ -1,9 +1,12 @@
 ---
 title: 万年历生成calendar
-date: 2025-06-26 12:48:45
+date: 2025-06-26 20:48:45
 categories:
     - 前端
     - web
+tags:
+    - 万年历
+    - js插件
 description: 万年历生成器，生成前端js的calendar，还有一个自定义休息与调休日
 ---
 
