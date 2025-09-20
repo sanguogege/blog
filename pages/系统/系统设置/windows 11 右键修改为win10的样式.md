@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:36:29
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 01:40:10
-Description: "windows 11 右键修改为win10的样式"
+title: windows 11 右键修改为win10的样式
+date: 2025-05-31 04:48:45
+permalink: /pages/b7a1b3
+categories:
+  - 系统
+  - 系统设置
 ---
 
 # windows 11 右键修改为 win10 的样式

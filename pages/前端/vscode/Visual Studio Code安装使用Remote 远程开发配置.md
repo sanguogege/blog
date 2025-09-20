@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:45:44
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:12:08
-Description: " Visual Studio Code安装使用Remote 远程开发配置"
+title: Visual Studio Code安装使用Remote 远程开发配置
+date: 2025-09-19 04:48:45
+permalink: /pages/30ffd4
+categories:
+  - 前端
+  - vscode
 ---
 
 # Visual Studio Code 安装使用 Remote 远程开发配置

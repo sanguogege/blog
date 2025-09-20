@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-27 00:30:16
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:03:43
-Description: "win11 时间如何显示秒"
+title: win11 时间如何显示秒
+date: 2025-06-19 04:48:45
+permalink: /pages/9182c0
+categories:
+  - 系统
+  - 系统设置
 ---
 
 # win11 时间如何显示秒

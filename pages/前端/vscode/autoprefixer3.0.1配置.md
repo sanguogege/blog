@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:24:04
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 03:47:34
-Description: "autoprefixer3.0.1配置"
+title: 0.1配置
+date: 2025-09-19 04:48:45
+permalink: /pages/f3df09
+categories:
+  - 前端
+  - vscode
 ---
 
 # autoprefixer3.0.1 配置

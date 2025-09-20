@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:22:48
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:04:15
-Description: vite 开发并打包 npm库文件。
+title: vite 开发并打包 npm库文件
+date: 2025-09-19 04:48:45
+permalink: /pages/7f092c
+categories:
+  - 前端
+  - vite
 ---
 
 # vite 开发并打包 npm 库文件。

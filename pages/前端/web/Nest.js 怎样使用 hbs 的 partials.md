@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:34:46
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:12:15
-Description: " Nest.js 怎样使用 hbs 的 partials?"
+title: js 怎样使用 hbs 的 partials
+date: 2023-03-19 04:48:45
+permalink: /pages/013c78
+categories:
+  - 前端
+  - web
 ---
 
 # Nest.js 怎样使用 hbs 的 partials?

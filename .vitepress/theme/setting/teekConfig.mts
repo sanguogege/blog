@@ -98,8 +98,8 @@ const teekBlogCommonConfig: TeekConfig = {
 export const teekBlogConfig: TeekConfig = {
     ...teekBlogCommonConfig,
     banner: {
-        name: "My Blog , Your Journey",
-        description: "人人为我,我为人人 —— 来自 Alexandre Dumas",
+        name: "🎉 My Blog , Your Journey",
+        description: "人人为我，我为人人",
         bgStyle: "partImg",
     },
 };
@@ -108,17 +108,29 @@ export const teekBlogConfig: TeekConfig = {
 export const teekBlogParkConfig: TeekConfig = {
     ...teekBlogCommonConfig,
     banner: {
-        name: "🎉 Teek Blog",
+        name: "🗡︎ 满堂花醉三千客，一剑霜寒十四州。",
         bgStyle: "partImg",
         imgSrc: [
             "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
         ],
         description: [
-            "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
-            "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
-            "这一生波澜壮阔或是不惊都没问题 —— 来自 Weibw",
+            "夫天地者万物之逆旅也；光阴者百代之过客也。",
+            "而浮生若梦，为欢几何？",
+            "古人今人若流水，共看明月皆如此。",
         ],
         descStyle: "switch",
+    },
+    comment: {
+        provider: "giscus",
+        options: {
+            repo: "sanguogege/blog",
+            repoId: "R_kgDOObQJQQ",
+            category: "general",
+            categoryId: "DIC_kwDOObQJQc4CpRne",
+        },
+    },
+    codeBlock: {
+        overlay: true,
     },
     // footerGroup: [
     //     {
@@ -146,15 +158,15 @@ export const teekBlogFullConfig: TeekConfig = {
         coverImgMode: "full",
     },
     banner: {
-        name: "🎉 博客大图配置",
+        name: "🏆 莫愁前路无知己，天下谁人不识君。",
         bgStyle: "fullImg",
         imgSrc: [
             "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
         ],
         description: [
-            "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
-            "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
-            "这一生波澜壮阔或是不惊都没问题 —— 来自 Weibw",
+            "云想衣裳花想容，春风拂槛露华浓。",
+            "若非群玉山头见，会向瑶台月下逢。 ",
+            "               —— 来自 李白",
         ],
         descStyle: "types",
     },
@@ -182,13 +194,25 @@ export const teekBlogBodyConfig: TeekConfig = {
         ],
     },
     banner: {
-        name: "🎉 博客全图配置",
+        name: "💻 Code Is Cheap, Show Me Your Nation",
         description: [
-            "故事由我书写，旅程由你见证，传奇由她聆听 —— 来自 Young Kbt",
-            "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
-            "这一生波澜壮阔或是不惊都没问题 —— 来自 Weibw",
+            "尔曹身与名俱灭，不废江河万古流。",
+            "为人性僻耽佳句，语不惊人死不休。",
+            "会当凌绝顶，一览众山小。",
         ],
         descStyle: "types",
+    },
+    comment: {
+        provider: "giscus",
+        options: {
+            repo: "sanguogege/blog",
+            repoId: "R_kgDOObQJQQ",
+            category: "general",
+            categoryId: "DIC_kwDOObQJQc4CpRne",
+        },
+    },
+    codeBlock: {
+        overlay: true,
     },
     themeEnhance: {
         layoutSwitch: {
@@ -205,13 +229,13 @@ export const teekBlogCardConfig: TeekConfig = {
     },
     homeCardListPosition: "left",
     banner: {
-        name: "🎉 博客卡片配置",
+        name: "📖 书山有路勤为径，学海无涯苦作舟",
         bgStyle: "fullImg",
         imgSrc: ["/blog/ST.jpg"],
         description: [
-            "1111",
-            "积跬步以至千里，致敬每个爱学习的你 —— 来自 Evan Xu",
-            "这一生波澜壮阔或是不惊都没问题 —— 来自 Weibw",
+            "休对故人思故国，且将新火试新茶。诗酒趁年华。",
+            "粗缯大布裹生涯，腹有诗书气自华。",
+            "人生到处知何似，应似飞鸿踏雪泥。",
         ],
         descStyle: "types",
     },

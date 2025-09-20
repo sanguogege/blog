@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:16:23
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:13:10
-Description: " Avalonia 使用 TreeDataGrid自定义模板 分层树数据表格，Avalonia.Controls.TreeDataGrid 。"
+title: TreeDataGrid自定义模板
+date: 2025-04-21 04:48:45
+permalink: /pages/7faa6f
+categories:
+  - Net
+  - Avalonia
 ---
 
 # Avalonia 使用 TreeDataGrid 自定义模板 分层树数据表格，Avalonia.Controls.TreeDataGrid 。

@@ -1,10 +1,10 @@
 ---
-Author: sanguogege
-keywords: sdsd
-Date: 2025-04-20 05:15:16
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:11:15
-Description: "vite-plugin-html-layout使用"
+title: vite-plugin-html-layout
+date: 2025-09-19 04:48:45
+permalink: /pages/43175a
+categories:
+  - 前端
+  - vite
 ---
 
 # vite-plugin-html-layout

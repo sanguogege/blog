@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:19:53
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 12:38:37
-Description: 'Avalonia 使用 TreeDataGrid 自定义模板的ContextMenu 点击并行任务。'
+title: TreeDataGrid 自定义模板的ContextMenu
+date: 2025-04-20 08:19:53
+permalink: /pages/dbf09d
+categories:
+  - Net
+  - Avalonia
 ---
 
 # Avalonia 使用 TreeDataGrid 自定义模板的ContextMenu 点击并行任务。

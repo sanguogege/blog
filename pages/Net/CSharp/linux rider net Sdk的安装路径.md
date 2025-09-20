@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-05-22 19:07:30
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:03:22
-Description: "linux rider 先装装了.net。"
+title: linux rider net Sdk的安装路径
+date: 2025-05-23 03:07:30
+permalink: /pages/00b134
+categories:
+  - Net
+  - CSharp
 ---
 
 ## linux rider 先装装了.net。

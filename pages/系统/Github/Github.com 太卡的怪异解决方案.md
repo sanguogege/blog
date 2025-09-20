@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:51:11
-LastEditors: Please set LastEditors
-LastEditTime: 2025-04-22 21:57:53
-Description: "Github.com 太卡或者连不上怎么办"
+title: com 太卡的怪异解决方案
+date: 2025-04-26 04:48:45
+permalink: /pages/1734ba
+categories:
+  - 系统
+  - Github
 ---
 
 # Github.com 太卡或者连不上怎么办

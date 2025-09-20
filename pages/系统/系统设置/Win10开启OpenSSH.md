@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:25:04
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:12:36
-Description: "Win10开启OpenSSH"
+title: Win10开启OpenSSH
+date: 2025-04-27 04:48:45
+permalink: /pages/e5bad6
+categories:
+  - 系统
+  - 系统设置
 ---
 
 # Win10 开启 OpenSSH

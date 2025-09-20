@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:30:52
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:13:21
-Description: "NET6 使用 Pomelo.EntityFrameworkCore.MySql"
+title: EntityFrameworkCore.MySql
+date: 2025-04-20 08:30:52
+permalink: /pages/ae9c4e
+categories:
+  - Net
+  - CSharp
 ---
 
 # NET6 使用 Pomelo.EntityFrameworkCore.MySql，无法从“string”转化为 Microsoft.EntityFrameworkCore.ServerVersion。

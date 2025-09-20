@@ -1,12 +1,11 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:49:26
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:12:43
-Description: "之前分享过关于Github浏览太卡、连不上的问题的解决方案，当时确实感觉良好。但后来一看，还是一个坑爹方案，不过由于我常用的是gitee（也就是码云），所以有段时间没注意到。"
+title: Github 太卡、连不上、图裂 等等新解决方案
+date: 2025-04-20 08:49:26
+permalink: /pages/03cadf
+categories:
+  - 系统
+  - Github
 ---
-
-# Github 太卡、连不上、图裂 等等新解决方案！！
 
 # 图片较多，请移步 [ Github 太卡、连不上、图裂 等等新解决方案](https://blog.csdn.net/qq_21874123/article/details/121273369)
 

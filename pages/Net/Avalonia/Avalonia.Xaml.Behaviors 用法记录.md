@@ -1,12 +1,12 @@
 ---
-Author: sanguogege
-Date: 2025-05-30 21:39:48
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:10:59
-Description: "Avalonia.Xaml.Behaviors 用法记录"
+date: 2025-07-20 20:48:45
+title: Avalonia.Xaml.Behaviors 用法记录
+permalink: /pages/912e1e
+description: 在 Avalonia 里使用 Avalonia.Xaml.Behaviors
+categories:
+    - Net
+    - Avalonia
 ---
-
-# Avalonia.Xaml.Behaviors 用法记录!
 
 ### 在 Avalonia 里使用 Avalonia.Xaml.Behaviors
 

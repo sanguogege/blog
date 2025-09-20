@@ -87,7 +87,7 @@ export default defineConfig({
             prev: "上一页",
             next: "下一页",
         },
-        // nav: navBar,
+        nav: navBar,
         socialLinks: [
             {
                 icon: "github",
@@ -105,4 +105,5 @@ export default defineConfig({
     vite: {
         plugins: [llmstxt() as any],
     },
+    
 });

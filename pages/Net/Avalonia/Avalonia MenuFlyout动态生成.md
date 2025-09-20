@@ -1,31 +1,33 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:14:34
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 01:46:13
-Description: 'Avalonia MenuFlyout动态生成。'
+date: 2025-09-18 20:48:45
+title: Avalonia MenuFlyout动态生成
+permalink: /pages/34ae82
+categories:
+    - Net
+    - Avalonia
 ---
 
-# Avalonia MenuFlyout动态生成。
+### Avalonia MenuFlyout 的一些心得记录。免得忘记。
 
-###  Avalonia  MenuFlyout的一些心得记录。免得忘记。
-MenuFlyout的动态生成方法有很多，不过有时候确实挺蛋疼的。
+MenuFlyout 的动态生成方法有很多，不过有时候确实挺蛋疼的。
 
 这是最常见的静态写法。
+
 ```csharp
  <Button.Flyout>
-	<MenuFlyout Placement="RightEdgeAlignedTop"> 
-	    <MenuItem Header="00000"/> 
-	      <MenuItem Header="00000"/> 
-	      <MenuItem Header="00000"/> 
-	      <MenuItem Header="00000"/> 
-	      <MenuItem Header="11"> 
-	          <MenuItem Header="11122"/> 
-	      </MenuItem> 
+	<MenuFlyout Placement="RightEdgeAlignedTop">
+	    <MenuItem Header="00000"/>
+	      <MenuItem Header="00000"/>
+	      <MenuItem Header="00000"/>
+	      <MenuItem Header="00000"/>
+	      <MenuItem Header="11">
+	          <MenuItem Header="11122"/>
+	      </MenuItem>
 	 </MenuFlyout>
- </Button.Flyout> 
+ </Button.Flyout>
 ```
-动态写法是这样的吗？说实话我也不要清楚（新手哈），但我的理解和listbox写法差不多，但坑爹的是样式不一样，行为也不一样比如 Member由鼠标移上去变成点击展开，WTF。
+
+动态写法是这样的吗？说实话我也不要清楚（新手哈），但我的理解和 listbox 写法差不多，但坑爹的是样式不一样，行为也不一样比如 Member 由鼠标移上去变成点击展开，WTF。
 
 ```csharp
  <Button.Flyout>
@@ -42,7 +44,7 @@ MenuFlyout的动态生成方法有很多，不过有时候确实挺蛋疼的。
 	         </DataTemplate>
 	     </MenuFlyout.ItemTemplate>
 	  </MenuFlyout>
-  </Button.Flyout> 
+  </Button.Flyout>
 ```
 
 但好在互联网还在，换个思路就是这样。
@@ -57,7 +59,7 @@ MenuFlyout的动态生成方法有很多，不过有时候确实挺蛋疼的。
 		    </ControlTheme>
 		  </MenuFlyout.ItemContainerTheme>
 	</MenuFlyout>
- </Button.Flyout> 
+ </Button.Flyout>
 ```
 
 好了，想要什么直接写就是了。。。

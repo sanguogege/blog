@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:17:01
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 12:38:12
-Description: " Avalonia 关于ViewModel使用 MessageBox 不在父窗口正中。"
+title: MessageBox父窗口
+date: 2025-04-20 08:17:01
+permalink: /pages/4e44e8
+categories:
+  - Net
+  - Avalonia
 ---
 
 # Avalonia 关于 ViewModel 使用 MessageBox 不在父窗口正中。

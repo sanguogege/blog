@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-07-01 00:46:27
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:04:59
-Description: "solidjs 处理复杂类型的响应式"
+title: solidjs  处理复杂类型的响应式
+date: 2025-09-19 04:48:45
+permalink: /pages/9f4982
+categories:
+  - 前端
+  - web
 ---
 
 # solidjs 处理复杂类型的响应式

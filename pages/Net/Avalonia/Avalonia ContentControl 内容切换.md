@@ -1,12 +1,11 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:15:34
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:12:56
-Description: "Avalonia ContentControl 内容切换。"
+title: Avalonia ContentControl 内容切换
+date: 2025-04-20 08:15:34
+permalink: /pages/805b79
+categories:
+  - Net
+  - Avalonia
 ---
-
-# Avalonia ContentControl 内容切换。
 
 纯记录。
 

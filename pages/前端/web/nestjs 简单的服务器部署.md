@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:34:00
-LastEditors: sanguogege
-LastEditTime: 2025-04-22 22:12:27
-Description: "nestjs 简单的服务器部署。"
+title: nestjs 简单的服务器部署
+date: 2024-09-19 04:48:45
+permalink: /pages/066e17
+categories:
+  - 前端
+  - web
 ---
 
 # nestjs 简单的服务器部署。

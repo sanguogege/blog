@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-09-06 22:15:40
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:10:20
-Description: "netlify 部署 vitepress 项目"
+title: netlify部署vitepress项目
+date: 2025-09-19 04:48:45
+permalink: /pages/b7ece5
+categories:
+  - 前端
+  - web
 ---
 
 # netlify 部署 vitepress 项目

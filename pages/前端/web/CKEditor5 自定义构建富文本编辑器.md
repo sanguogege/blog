@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 00:37:12
-LastEditors: sanguogege
-LastEditTime: 2025-04-20 12:31:51
-Description: "CKEditor5 自定义构建富文本编辑器！"
+title: CKEditor5 自定义构建富文本编辑器
+date: 2025-09-19 04:48:45
+permalink: /pages/7fa969
+categories:
+  - 前端
+  - web
 ---
 
 # CKEditor5 自定义构建富文本编辑器！

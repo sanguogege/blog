@@ -1,9 +1,10 @@
 ---
-Author: sanguogege
-Date: 2025-04-20 16:22:59
-LastEditors: sanguogege
-LastEditTime: 2025-09-07 02:04:25
-Description: "VitePress搭建-接入giscus的注意事项。"
+title: VitePress接入giscus
+date: 2025-09-19 04:48:45
+permalink: /pages/5cbcff
+categories:
+  - 前端
+  - vite
 ---
 
 # VitePress 搭建-接入 giscus 的注意事项。
