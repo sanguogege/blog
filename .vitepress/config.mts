@@ -12,6 +12,7 @@ const description = [
     "Teek 拥有三种典型的知识管理形态：结构化、碎片化、体系化，可以轻松构建一个结构化知识库，适用个人博客、文档站、知识库等场景",
 ].toString();
 
+navBar;
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     extends: teekConfig,
@@ -73,12 +74,15 @@ export default defineConfig({
             return [...items, ...permalinkItemBak];
         },
     },
+
     themeConfig: {
         logo: "https://avatars.githubusercontent.com/u/25738532?v=4",
         darkModeSwitchLabel: "主题",
         sidebarMenuLabel: "菜单",
         returnToTopLabel: "返回顶部",
         lastUpdatedText: "更新时间",
+        nav: navBar,
+        sidebar: sideBar,
         outline: {
             level: [2, 4],
             label: "本页导航",
@@ -87,7 +91,6 @@ export default defineConfig({
             prev: "上一页",
             next: "下一页",
         },
-        nav: navBar,
         socialLinks: [
             {
                 icon: "github",
@@ -105,5 +108,4 @@ export default defineConfig({
     vite: {
         plugins: [llmstxt() as any],
     },
-    
 });

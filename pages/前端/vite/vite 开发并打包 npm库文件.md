@@ -1,7 +1,6 @@
 ---
 title: vite 开发并打包 npm库文件
-date: 2025-09-21 12:48:45
-permalink: /pages/7f092c
+date: 2024-10-21 12:48:45
 categories:
   - 前端
   - vite

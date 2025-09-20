@@ -1,7 +1,6 @@
 ---
 title: windows 11 右键修改为win10的样式
-date: 2025-06-02 12:48:45
-permalink: /pages/b7a1b3
+date: 2025-07-02 12:48:45
 categories:
   - 系统
   - 系统设置

@@ -27,16 +27,22 @@ export const teekConfig = defineTeekConfig({
     },
     articleShare: { enabled: true },
     vitePlugins: {
+        sidebar: false,
         sidebarOption: {
             collapsed: true,
+            initItems: false,
         },
         autoFrontmatter: true,
         autoFrontmatterOption: {
             transform: (pageData) => {
-                pageData = { ...pageData, description: pageData.excerpt };
-
+                pageData = {
+                    ...pageData,
+                    description: pageData.description || "",
+                };
+                delete pageData.permalink;
                 return pageData;
             },
+            recoverTransform: true,
         },
     },
 });

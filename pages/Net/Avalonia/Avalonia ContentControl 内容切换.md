@@ -1,7 +1,6 @@
 ---
 title: Avalonia ContentControl 内容切换
-date: 2025-04-23 00:15:34
-permalink: /pages/0ba0ff
+date: 2025-05-23 00:15:34
 categories:
   - Net
   - Avalonia

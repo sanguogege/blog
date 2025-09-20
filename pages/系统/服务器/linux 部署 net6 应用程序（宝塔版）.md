@@ -1,7 +1,6 @@
 ---
 title: linux 部署 net6 应用程序（宝塔版）
-date: 2025-06-21 13:48:45
-permalink: /pages/e2999a
+date: 2025-07-21 13:48:45
 categories:
   - 系统
   - 服务器

@@ -1,10 +1,9 @@
 ---
 title: net6 连接mysql 双表联查
-date: 2025-04-22 16:21:17
-permalink: /pages/4af3b3
+date: 2025-05-22 16:21:17
 categories:
-    - Net
-    - CSharp
+  - Net
+  - CSharp
 description: net6 连接 mysql 双表联查、且 一张表存在的数据而另一张表中没有的数据。
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: EntityFrameworkCore.MySql
-date: 2025-04-22 16:30:52
-permalink: /pages/ae9c4e
+date: 2025-05-22 16:30:52
 categories:
-    - Net
-    - CSharp
-description: 关于 net6 使用了 6.0 版本 Pomelo.EntityFrameworkCore.MySql 会报 configuration 再此处不为 null 的错误。
+  - Net
+  - CSharp
+description: >-
+  关于 net6 使用了 6.0 版本 Pomelo.EntityFrameworkCore.MySql 会报 configuration 再此处不为
+  null 的错误。
 ---
 
 # NET6 使用 Pomelo.EntityFrameworkCore.MySql，无法从“string”转化为 Microsoft.EntityFrameworkCore.ServerVersion。

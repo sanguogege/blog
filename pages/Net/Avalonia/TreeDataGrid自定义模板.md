@@ -1,7 +1,6 @@
 ---
 title: TreeDataGrid自定义模板
-date: 2025-04-23 12:48:45
-permalink: /pages/7faa6f
+date: 2025-05-23 12:48:45
 categories:
   - Net
   - Avalonia

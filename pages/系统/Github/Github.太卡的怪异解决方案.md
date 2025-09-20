@@ -1,10 +1,9 @@
 ---
 title: Github太卡的怪异解决方案
-date: 2025-04-28 12:48:45
-permalink: /pages/1734ba
+date: 2025-05-28 12:48:45
 categories:
-    - 系统
-    - Github
+  - 系统
+  - Github
 description: 看了很多网上的教程，无非就是改 host，然而不知道是家里联通太坑还是咋滴。改了最多顶一会。。
 ---
 

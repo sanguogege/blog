@@ -1,7 +1,6 @@
 ---
 title: TreeDataGrid 自定义模板的ContextMenu
-date: 2025-04-22 16:19:53
-permalink: /pages/dbf09d
+date: 2025-05-22 16:19:53
 categories:
   - Net
   - Avalonia

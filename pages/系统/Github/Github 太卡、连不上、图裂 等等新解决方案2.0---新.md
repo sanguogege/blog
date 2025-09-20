@@ -1,7 +1,6 @@
 ---
 title: Github 太卡、连不上、图裂 等等新解决方案2.0---新
-date: 2025-04-22 16:48:45
-permalink: /pages/ff5104
+date: 2025-05-22 16:48:45
 categories:
   - 系统
   - Github

@@ -65,11 +65,23 @@ async function getNavBar(realFiles: any, pathname: string) {
 // 文件根目录
 const srcDir = "./pages";
 // 过滤名单
-const FILTER_LIST = ["index.md", "dataShow.md"];
-// 侧边栏
+const FILTER_LIST = ["index.md", "@fragment", "@pages"];
+
+// 过滤名单文件夹
 const sideBar: { [key: string]: DefaultTheme.SidebarItem[] } = {};
 // 导航栏
 const homeBar: DefaultTheme.NavItem[] = [{ text: "首页", link: "/" }];
+const endBar: DefaultTheme.NavItem[] = [
+    {
+        text: "归档",
+        items: [
+            { text: "分类", link: "/categories" },
+            { text: "标签", link: "/tags" },
+            { text: "归档", link: "/archives" },
+            { text: "文章清单", link: "/articleOverview" },
+        ],
+    },
+];
 
 // 取差值
 const filterFiles = (files: any[], filterList: string[]) => {
@@ -84,10 +96,6 @@ var userBar = await getNavBar(realFiles, "");
 
 await getSideBar(realFiles, "");
 
-var navBar = [
-    ...homeBar,
-    ...userBar,
-    { text: "文档总览", link: "dataShow.md" },
-];
+var navBar = [...homeBar, ...userBar, ...endBar];
 
 export { srcDir, sideBar, navBar };

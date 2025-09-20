@@ -1,7 +1,6 @@
 ---
 title: CKEditor5 自定义构建富文本编辑器
-date: 2025-09-21 12:48:45
-permalink: /pages/7fa969
+date: 2024-10-21 12:48:45
 categories:
   - 前端
   - web

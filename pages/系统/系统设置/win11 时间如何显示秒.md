@@ -1,10 +1,9 @@
 ---
 title: win11 时间如何显示秒
-date: 2025-06-21 12:48:45
-permalink: /pages/9182c0
+date: 2025-07-21 12:48:45
 categories:
-    - 系统
-    - 系统设置
+  - 系统
+  - 系统设置
 description: win11 时间如何显示秒 第一种：修改注册列表 第二种：有些 win11 版本没有。
 ---
 
