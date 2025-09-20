@@ -73,7 +73,7 @@ const sideBar: { [key: string]: DefaultTheme.SidebarItem[] } = {};
 const homeBar: DefaultTheme.NavItem[] = [{ text: "首页", link: "/" }];
 const endBar: DefaultTheme.NavItem[] = [
     {
-        text: "归档",
+        text: "功能",
         items: [
             { text: "分类", link: "/categories" },
             { text: "标签", link: "/tags" },

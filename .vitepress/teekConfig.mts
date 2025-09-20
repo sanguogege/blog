@@ -2,6 +2,20 @@ import { defineTeekConfig } from "vitepress-theme-teek/config";
 
 export const teekConfig = defineTeekConfig({
     sidebarTrigger: true,
+    blogger: {
+        name: "天客",
+        slogan: "朝圣的使徒，正在走向编程的至高殿堂！",
+        avatar: "https://testingcf.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar1.png",
+        shape: "circle-rotate",
+        circleBgImg: "/blog/bg4.webp",
+        color: "#ffffff",
+        circleSize: 120,
+        status: {
+            icon: "😪",
+            size: 28,
+            title: "困",
+        },
+    },
     author: { name: "sanguogege", link: "https://github.com/sanguogege" },
     footerInfo: {
         copyright: {
@@ -33,7 +47,6 @@ export const teekConfig = defineTeekConfig({
             initItems: false,
         },
         autoFrontmatter: true,
-        permalink: false,
         autoFrontmatterOption: {
             transform: (frontmatter) => {
                 // 'frontmatter' 是插件自动生成的对象
@@ -49,6 +62,9 @@ export const teekConfig = defineTeekConfig({
                 return {
                     ...frontmatter,
                     tags: tags, // 确保返回的是数组
+                    top: frontmatter.top || false,
+                    sticky: frontmatter.sticky || "",
+                    titleTag: frontmatter.titleTag || "",
                     description: frontmatter.description || "暂无描述", // 也可以给 description 设置默认值
                 };
             },
