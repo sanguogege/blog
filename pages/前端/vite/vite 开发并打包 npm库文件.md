@@ -8,7 +8,7 @@ categories:
 tags:
     - 前端
     - vite
-top: false
+top: true
 sticky:
 titleTag:
 description: 如何用 vite 开发并打包 库文件。其实在开发库的时候有很多选择。比如 webpack，rollup，esbuild 等等。

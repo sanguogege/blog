@@ -8,7 +8,7 @@ categories:
 tags:
     - 前端
     - vite
-top: false
+top: true
 sticky:
 titleTag:
 description: 此插件专用于 vite 指定一个 html 页面为模板页。指定一个文件夹为存放具体页面地方。
