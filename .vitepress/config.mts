@@ -17,6 +17,7 @@ navBar;
 export default defineConfig({
     extends: teekConfig,
     srcDir: srcDir,
+    assetsDir: "blog",
     title: "三国哥哥",
     description: "A VitePress Site",
     lang: "zh-CN",
