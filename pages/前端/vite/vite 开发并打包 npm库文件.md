@@ -1,10 +1,11 @@
 ---
 title: vite 开发并打包 npm库文件
-date: 2025-09-19 04:48:45
+date: 2025-09-21 12:48:45
 permalink: /pages/7f092c
 categories:
   - 前端
   - vite
+description: 如何用 vite 开发并打包 库文件。其实在开发库的时候有很多选择。比如 webpack，rollup，esbuild 等等。
 ---
 
 # vite 开发并打包 npm 库文件。

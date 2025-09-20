@@ -1,10 +1,11 @@
 ---
 title: netlify部署vitepress项目
-date: 2025-09-19 04:48:45
+date: 2025-09-21 12:48:45
 permalink: /pages/b7ece5
 categories:
-  - 前端
-  - web
+    - 前端
+    - web
+description: 直接进入主题，netlify 有不少部署来源，有从 github 这样的代码托管上的拉取的，有模板，有上传文件。
 ---
 
 # netlify 部署 vitepress 项目

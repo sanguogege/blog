@@ -1,5 +1,5 @@
 ---
-date: 2025-07-20 20:48:45
+date: 2025-07-23 04:48:45
 title: Avalonia.Xaml.Behaviors 用法记录
 permalink: /pages/912e1e
 description: 在 Avalonia 里使用 Avalonia.Xaml.Behaviors

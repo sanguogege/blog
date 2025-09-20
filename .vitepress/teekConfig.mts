@@ -28,28 +28,15 @@ export const teekConfig = defineTeekConfig({
     articleShare: { enabled: true },
     vitePlugins: {
         sidebarOption: {
-            // initItems: false,
             collapsed: true,
         },
         autoFrontmatter: true,
         autoFrontmatterOption: {
             transform: (pageData) => {
-                pageData.date = pageData.Date;
-                // // if (pageData.frontmatter.Description) {
-                // //     pageData.frontmatter.description =
-                // //         pageData.frontmatter.Description;
+                pageData = { ...pageData, description: pageData.excerpt };
 
-                console.log(pageData);
-                return pageData.frontmatter;
-                // }
+                return pageData;
             },
-            recoverTransform: true,
         },
-    },
-    transformPageData(pageData) {
-        console.log(111);
-        if (pageData.frontmatter.Description) {
-            pageData.frontmatter.description = pageData.frontmatter.Description;
-        }
     },
 });

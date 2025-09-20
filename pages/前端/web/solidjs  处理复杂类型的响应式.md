@@ -1,10 +1,11 @@
 ---
 title: solidjs  处理复杂类型的响应式
-date: 2025-09-19 04:48:45
+date: 2025-09-21 12:48:45
 permalink: /pages/9f4982
 categories:
-  - 前端
-  - web
+    - 前端
+    - web
+description: 在 solidjs 里响应式一般直接用 createSignal 就可以，但 createSignal 一般用于基础数据类型。
 ---
 
 # solidjs 处理复杂类型的响应式

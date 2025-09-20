@@ -231,7 +231,9 @@ export const teekBlogCardConfig: TeekConfig = {
     banner: {
         name: "📖 书山有路勤为径，学海无涯苦作舟",
         bgStyle: "fullImg",
-        imgSrc: ["/blog/ST.jpg"],
+        imgSrc: [
+            "https://github.com/sanguogege/blog/blob/main/public/blog/ST.jpg?raw=true",
+        ],
         description: [
             "休对故人思故国，且将新火试新茶。诗酒趁年华。",
             "粗缯大布裹生涯，腹有诗书气自华。",

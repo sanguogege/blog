@@ -1,15 +1,16 @@
 ---
 title: autoprefixer3.0.1 配置
-date: 2025-09-19 04:48:45
+date: 2025-09-21 12:48:45
 permalink: /pages/f3df09
 categories:
     - 前端
     - vscode
+description: 网上一看全是改版本，妈的这些狗比做 seo 的真坑。搜了半天，一看，还是有答主给力的，虽然不知道是首发，但确实按搜索往下拉的第一个。
 ---
 
 # autoprefixer3.0.1 配置
 
-# autoprefixer3.0.1 在 vscode 无法生效的一个解决方法
+## autoprefixer3.0.1 在 vscode 无法生效的一个解决方法
 
 网上一看全是改版本，妈的这些狗比做 seo 的真坑。
 

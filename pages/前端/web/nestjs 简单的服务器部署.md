@@ -1,10 +1,11 @@
 ---
 title: nestjs 简单的服务器部署
-date: 2024-09-19 04:48:45
+date: 2024-09-21 12:48:45
 permalink: /pages/066e17
 categories:
-  - 前端
-  - web
+    - 前端
+    - web
+description: 如何在服务器部署 nestjs，其实是很简单的。首先服务器上需要一个只要安装一个 node。安装方法自行百度就不多说了。
 ---
 
 # nestjs 简单的服务器部署。

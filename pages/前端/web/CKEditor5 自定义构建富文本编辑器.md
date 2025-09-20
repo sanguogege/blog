@@ -1,10 +1,11 @@
 ---
 title: CKEditor5 自定义构建富文本编辑器
-date: 2025-09-19 04:48:45
+date: 2025-09-21 12:48:45
 permalink: /pages/7fa969
 categories:
   - 前端
   - web
+description: CKEditor5 的编辑是一个非常好的编辑器，但其英文文档比较绕眼睛，所以特地记录一下，如何使用自定义构建。
 ---
 
 # CKEditor5 自定义构建富文本编辑器！

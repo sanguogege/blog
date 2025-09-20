@@ -1,10 +1,11 @@
 ---
-date: 2025-09-18 20:48:45
+date: 2025-09-21 04:48:45
 title: Avalonia MenuFlyout动态生成
 permalink: /pages/34ae82
 categories:
     - Net
     - Avalonia
+description: MenuFlyout 的动态生成方法有很多，不过有时候确实挺蛋疼的。这是最常见的静态写法。
 ---
 
 ### Avalonia MenuFlyout 的一些心得记录。免得忘记。
