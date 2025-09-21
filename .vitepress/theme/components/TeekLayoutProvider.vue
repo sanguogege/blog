@@ -11,6 +11,7 @@
     import TitleChange from "./TitleChange.vue";
     import GlobalGreet from "./GlobalGreet.vue";
     import ContributeChart from "./ContributeChart.vue";
+    import Clock from "./Clock.vue";
 
     const ns = "layout-provider";
     const { frontmatter } = useData();
@@ -27,7 +28,7 @@
     });
     // 页脚运行时间
     const { start: startRuntime, stop: stopRuntime } = useRuntime(
-        "2024-10-19 00:00:00",
+        "2025-4-1 00:00:00",
         {
             prefix: `<span style="width: 16px; display: inline-block; vertical-align: -3px; margin-right: 3px;">${clockIcon}</span>小破站已运行 `,
         }
@@ -87,7 +88,9 @@
                 />
             </div>
         </template>
-
+        <template #nav-bar-content-after>
+            <Clock />
+        </template>
         <template #nav-screen-content-after>
             <ConfigSwitch v-model="currentStyle" @switch="handleConfigSwitch" />
         </template>

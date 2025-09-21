@@ -9,7 +9,6 @@
     const duration = 4000;
 
     const greet = () => {
-        console.log(1);
         if (hasGreet.value) return;
 
         hasGreet.value = true;

@@ -7,7 +7,7 @@ export const teekConfig = defineTeekConfig({
         slogan: "知识的海洋，总是让人流连忘返！",
         avatar: "https://avatars.githubusercontent.com/u/25738532?v=4",
         shape: "circle-rotate",
-        circleBgImg: "/blog/OIP-C.webp",
+        circleBgImg: "/blog/PIC-1.webp",
         color: "#ffffff",
         circleSize: 120,
         status: {
@@ -26,6 +26,7 @@ export const teekConfig = defineTeekConfig({
     ],
     author: { name: "sanguogege", link: "https://github.com/sanguogege" },
     footerInfo: {
+        theme: { show: false },
         copyright: {
             createYear: 2025,
             suffix: "sanguogege",
