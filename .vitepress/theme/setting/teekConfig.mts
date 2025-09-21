@@ -13,19 +13,12 @@ export const teekDocConfig: TeekConfig = {
 const teekBlogCommonConfig: TeekConfig = {
     teekHome: true,
     vpHome: false,
-    loading: true,
     wallpaper: {
         enabled: true,
         hideBanner: true,
     },
     footerInfo: {
         customHtml: `<span id="runtime"></span>`, // 需要搭配 .vitepress/theme/helper/useRuntime.ts 使用
-    },
-    docAnalysis: {
-        // createTime: "2025-03-23",
-        // statistics: {
-        //     provider: "busuanzi",
-        // },
     },
     friendLink: {
         list: [
@@ -88,23 +81,6 @@ export const teekBlogParkConfig: TeekConfig = {
     codeBlock: {
         overlay: true,
     },
-    // footerGroup: [
-    //     {
-    //         title: "外部链接",
-    //         links: [
-    //             { name: "示例 1", link: "https://vp.teek.top" },
-    //             { name: "示例 2", link: "https://vp.teek.top" },
-    //             { name: "示例 3", link: "https://vp.teek.top" },
-    //         ],
-    //     },
-    //     {
-    //         title: "内部链接",
-    //         links: [
-    //             { name: "快速开始", link: "/guide/quickstart" },
-    //             { name: "配置简介", link: "/reference/config" },
-    //         ],
-    //     },
-    // ],
 };
 
 // 博客大图配置
