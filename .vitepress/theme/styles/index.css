@@ -10,3 +10,12 @@
 .vp-doc [class*="language-"] code {
     padding: 0;
 }
+
+.tk-banner-content__desc {
+    max-width: 1200px !important;
+}
+
+.tk-post-list li.full-img:nth-child(2n) .list .full .cover-img,
+.tk-post-item__right .cover.full .cover-img {
+    max-height: 205px !important;
+}

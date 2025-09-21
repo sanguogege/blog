@@ -12,6 +12,7 @@ top: true
 sticky: 1
 titleTag: 推荐
 description: 万年历生成器，生成前端js的calendar，还有一个自定义休息与调休日
+coverImg: blog/CoverImg.png
 ---
 
 # 万年历生成

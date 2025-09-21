@@ -93,7 +93,10 @@ export const teekBlogFullConfig: TeekConfig = {
         name: "🏆 莫愁前路无知己，天下谁人不识君。",
         bgStyle: "fullImg",
         imgSrc: ["/blog/OIP-A.png", "/blog/OIP-B.png", "/blog/OIP-C.png"],
-        description: ["花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。"],
+        description: [
+            "花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。",
+            "桃花坞里桃花庵，桃花庵下桃花仙。桃花仙人种桃树，又摘桃花换酒钱。",
+        ],
         descStyle: "types",
     },
     comment: {
