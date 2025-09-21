@@ -1,11 +1,11 @@
 <template>
     <div id="clock">
         <div class="time">
-            <span class="hour">{{ hours }}</span>
+            <span style="width: 28px" class="hour">{{ hours }}</span>
             <span class="separator">:</span>
-            <span class="minute">{{ minutes }}</span>
+            <span style="width: 28px" class="minute">{{ minutes }}</span>
             <span class="separator">:</span>
-            <span class="second">{{ seconds }}</span>
+            <span style="width: 28px" class="second">{{ seconds }}</span>
         </div>
     </div>
 </template>
