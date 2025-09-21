@@ -74,7 +74,8 @@ export const teekConfig = defineTeekConfig({
                     top: frontmatter.top || false,
                     sticky: frontmatter.sticky || "",
                     titleTag: frontmatter.titleTag || "",
-                    description: frontmatter.description || "暂无描述", // 也可以给 description 设置默认值
+                    description: frontmatter.description || "暂无描述",
+                    coverImg: "blog/CoverImg.png",
                 };
             },
         },

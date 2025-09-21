@@ -1,17 +1,18 @@
 ---
-date: 2025-05-28 04:48:45
+date: 2025-05-28 12:48:45
 title: TreeDataGrid自定义模板
 permalink: /pages/96999a
 categories:
-    - Net
-    - Avalonia
+  - Net
+  - Avalonia
 tags:
-    - Net
-    - Avalonia
+  - Net
+  - Avalonia
 top: false
-sticky:
-titleTag:
+sticky: 
+titleTag: 
 description: Avalonia 使用 TreeDataGrid 自定义模板 分层树数据表格，Avalonia.Controls.TreeDataGrid 。
+coverImg: blog/CoverImg.png
 ---
 
 # Avalonia 使用 TreeDataGrid 自定义模板 分层树数据表格，Avalonia.Controls.TreeDataGrid 。

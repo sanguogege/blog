@@ -1,17 +1,18 @@
 ---
-date: 2025-05-27 08:19:53
+date: 2025-05-27 16:19:53
 title: TreeDataGrid 自定义模板的ContextMenu
 permalink: /pages/896526
 categories:
-    - Net
-    - Avalonia
+  - Net
+  - Avalonia
 tags:
-    - Net
-    - Avalonia
+  - Net
+  - Avalonia
 top: false
-sticky:
-titleTag:
+sticky: 
+titleTag: 
 description: Avalonia 使用 TreeDataGrid 自定义模板的ContextMenu 点击并行任务。
+coverImg: blog/CoverImg.png
 ---
 
 # Avalonia 使用 TreeDataGrid 自定义模板的 ContextMenu 点击并行任务。
