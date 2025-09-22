@@ -1,5 +1,5 @@
 ---
-date: 2024-10-26 04:48:45
+date: 2024-10-27 04:48:45
 title: Avalonia MenuFlyout动态生成
 permalink: /pages/5246fe
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: MenuFlyout 的动态生成方法有很多，不过有时候确实挺蛋疼的。这是最常见的静态写法。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-4.png
 ---
 
 ### Avalonia MenuFlyout 的一些心得记录。免得忘记。

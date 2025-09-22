@@ -1,5 +1,5 @@
 ---
-date: 2025-06-02 12:48:45
+date: 2025-06-03 12:48:45
 title: Github太卡的怪异解决方案
 permalink: /pages/fe8aa8
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 看了很多网上的教程，无非就是改 host，然而不知道是家里联通太坑还是咋滴。改了最多顶一会。。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 # Github.com 太卡或者连不上怎么办

@@ -1,5 +1,5 @@
 ---
-date: 2025-05-28 00:15:34
+date: 2025-05-29 00:15:34
 title: Avalonia ContentControl 内容切换
 permalink: /pages/7c8941
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 使用 ContentControl 来根据不同的值来切换对应的内容。使用控制数据模板 IDataTemplate 来实现。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 纯记录。

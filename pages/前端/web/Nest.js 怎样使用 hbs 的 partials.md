@@ -1,5 +1,5 @@
 ---
-date: 2023-04-25 12:48:45
+date: 2023-04-26 12:48:45
 title: js 怎样使用 hbs 的 partials
 permalink: /pages/0c22fc
 categories:
@@ -14,7 +14,7 @@ titleTag:
 description: >-
   当你在使用 Nest.js 的时候，安装 hbs 就可以使用 Handerbars 作为模版引擎。但是 Nest.js 没有提供 hbs
   的配置接口，因此要使用 partials，还是要单独引入 hbs，具体如下：
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-4.png
 ---
 
 # Nest.js 怎样使用 hbs 的 partials?

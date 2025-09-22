@@ -58,14 +58,21 @@ export const teekConfig = defineTeekConfig({
         autoFrontmatter: true,
         autoFrontmatterOption: {
             transform: (frontmatter) => {
-                // 'frontmatter' 是插件自动生成的对象
-                // 假设它可能包含也可能不包含 tags
-
                 // 确保 tags 字段存在且为数组格式
                 const tags = [...(frontmatter.categories || [])];
 
-                // 你还可以在这里根据其他信息动态添加标签
-                // 例如，如果文件路径包含 'vite'，就添加 'vite' 标签
+                // 定义一个包含所有可选封面的数组
+                const coverImages = [
+                    "blog/CoverImg.png",
+                    "blog/CoverImg-1.png",
+                    "blog/CoverImg-2.png",
+                    "blog/CoverImg-3.png",
+                    "blog/CoverImg-4.png",
+                    "blog/CoverImg-5.png",
+                ];
+                // 随机选择一个封面
+                const randomCover =
+                    coverImages[Math.floor(Math.random() * coverImages.length)];
 
                 // 返回最终的 frontmatter 对象
                 return {
@@ -75,7 +82,7 @@ export const teekConfig = defineTeekConfig({
                     sticky: frontmatter.sticky || "",
                     titleTag: frontmatter.titleTag || "",
                     description: frontmatter.description || "暂无描述",
-                    coverImg: "blog/CoverImg.png",
+                    coverImg: randomCover, // 使用随机选择的封面
                 };
             },
         },

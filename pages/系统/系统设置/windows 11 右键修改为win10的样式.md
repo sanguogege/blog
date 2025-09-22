@@ -1,5 +1,5 @@
 ---
-date: 2025-07-07 12:48:45
+date: 2025-07-08 12:48:45
 title: windows 11 右键修改为win10的样式
 permalink: /pages/4ae26e
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: windows 11 右键修改为 win10 的样式，众所周知，win10 是 windows 的最后一个版本。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-1.png
 ---
 
 # windows 11 右键修改为 win10 的样式

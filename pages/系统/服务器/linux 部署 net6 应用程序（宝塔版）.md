@@ -1,5 +1,5 @@
 ---
-date: 2025-07-26 21:48:45
+date: 2025-07-27 21:48:45
 title: linux 部署 net6 应用程序（宝塔版）
 permalink: /pages/ae7aca
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: linux 部署 net6 应用程序（宝塔版）首先在 VS2022 上面把应用编译成 linux 上的运行文件！
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 # linux 部署 net6 应用程序（宝塔版）

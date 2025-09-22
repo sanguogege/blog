@@ -1,5 +1,5 @@
 ---
-date: 2024-10-26 12:48:45
+date: 2024-10-27 12:48:45
 title: CKEditor5 自定义构建富文本编辑器
 permalink: /pages/995639
 categories:

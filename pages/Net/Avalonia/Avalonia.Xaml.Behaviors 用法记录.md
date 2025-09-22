@@ -1,5 +1,5 @@
 ---
-date: 2025-08-27 04:48:45
+date: 2025-08-28 04:48:45
 title: Avalonia.Xaml.Behaviors 用法记录
 permalink: /pages/e03de4
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 在 Avalonia 里使用 Avalonia.Xaml.Behaviors
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 ### 在 Avalonia 里使用 Avalonia.Xaml.Behaviors

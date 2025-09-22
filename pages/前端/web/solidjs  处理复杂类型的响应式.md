@@ -1,5 +1,5 @@
 ---
-date: 2024-10-26 12:48:45
+date: 2024-10-27 12:48:45
 title: solidjs  处理复杂类型的响应式
 permalink: /pages/8c1447
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 在 solidjs 里响应式一般直接用 createSignal 就可以，但 createSignal 一般用于基础数据类型。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 # solidjs 处理复杂类型的响应式

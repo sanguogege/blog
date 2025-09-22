@@ -1,5 +1,5 @@
 ---
-date: 2025-05-27 16:17:01
+date: 2025-05-28 16:17:01
 title: MessageBox父窗口
 permalink: /pages/e0442a
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 由于 ViewModel 中没有 window，所以 在 ViewModel 中使用 MessageBox 就是原地弹窗，不会跟着窗体走。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-2.png
 ---
 
 # Avalonia 关于 ViewModel 使用 MessageBox 不在父窗口正中。

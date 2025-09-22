@@ -1,6 +1,6 @@
 ---
 title: vite-plugin-html-layout
-date: 2024-10-26 12:48:45
+date: 2024-10-27 12:48:45
 permalink: /pages/fcaebb
 categories:
   - 前端
@@ -12,7 +12,7 @@ top: true
 sticky: 
 titleTag: 
 description: 此插件专用于 vite 指定一个 html 页面为模板页。指定一个文件夹为存放具体页面地方。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-5.png
 ---
 
 # vite-plugin-html-layout

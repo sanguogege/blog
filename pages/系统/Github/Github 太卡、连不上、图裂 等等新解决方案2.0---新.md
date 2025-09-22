@@ -1,6 +1,6 @@
 ---
 title: Github 太卡、连不上、图裂 等等新解决方案2.0---新
-date: 2025-05-27 16:48:45
+date: 2025-05-28 16:48:45
 permalink: /pages/f9d84b
 categories:
   - 系统
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 之前给大家推荐 SwitchHosts 这个软件，效果其实很不错，然每次启动总是需要点步骤。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-3.png
 ---
 
 # Github 太卡、连不上、图裂 等等新解决方案 2.0---新

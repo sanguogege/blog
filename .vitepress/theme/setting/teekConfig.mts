@@ -61,7 +61,13 @@ export const teekBlogParkConfig: TeekConfig = {
     banner: {
         name: "🗡︎ 满堂花醉三千客，一剑霜寒十四州。",
         bgStyle: "partImg",
-        imgSrc: ["/blog/OIP-A.png", "/blog/OIP-B.png", "/blog/OIP-C.png"],
+        imgSrc: [
+            "/blog/OIP-A.png",
+            "/blog/OIP-B.png",
+            "/blog/OIP-C.png",
+            "/blog/OIP-D.png",
+            "/blog/OIP-E.png",
+        ],
         description: [
             "夫天地者万物之逆旅也；光阴者百代之过客也。",
             "而浮生若梦，为欢几何？",
@@ -92,7 +98,13 @@ export const teekBlogFullConfig: TeekConfig = {
     banner: {
         name: "🏆 莫愁前路无知己，天下谁人不识君。",
         bgStyle: "fullImg",
-        imgSrc: ["/blog/OIP-A.png", "/blog/OIP-B.png", "/blog/OIP-C.png"],
+        imgSrc: [
+            "/blog/OIP-A.png",
+            "/blog/OIP-B.png",
+            "/blog/OIP-C.png",
+            "/blog/OIP-D.png",
+            "/blog/OIP-E.png",
+        ],
         description: [
             "花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。",
             "桃花坞里桃花庵，桃花庵下桃花仙。桃花仙人种桃树，又摘桃花换酒钱。",
@@ -118,7 +130,13 @@ export const teekBlogBodyConfig: TeekConfig = {
     ...teekBlogCommonConfig,
     pageStyle: "segment-nav",
     bodyBgImg: {
-        imgSrc: ["/blog/OIP-A.png", "/blog/OIP-B.png", "/blog/OIP-C.png"],
+        imgSrc: [
+            "/blog/OIP-A.png",
+            "/blog/OIP-B.png",
+            "/blog/OIP-C.png",
+            "/blog/OIP-D.png",
+            "/blog/OIP-E.png",
+        ],
     },
     banner: {
         name: "💻 Code Is Cheap, Show Me Your Nation",
@@ -158,7 +176,13 @@ export const teekBlogCardConfig: TeekConfig = {
     banner: {
         name: "📖 书山有路勤为径，学海无涯苦作舟",
         bgStyle: "fullImg",
-        imgSrc: ["/blog/OIP-A.png", "/blog/OIP-B.png", "/blog/OIP-C.png"],
+        imgSrc: [
+            "/blog/OIP-A.png",
+            "/blog/OIP-B.png",
+            "/blog/OIP-C.png",
+            "/blog/OIP-D.png",
+            "/blog/OIP-E.png",
+        ],
         description: [
             "休对故人思故国，且将新火试新茶。诗酒趁年华。",
             "粗缯大布裹生涯，腹有诗书气自华。",

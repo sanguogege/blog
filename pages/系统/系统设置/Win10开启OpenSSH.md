@@ -1,5 +1,5 @@
 ---
-date: 2025-06-03 12:48:45
+date: 2025-06-04 12:48:45
 title: Win10开启OpenSSH
 permalink: /pages/003eba
 categories:
@@ -12,7 +12,7 @@ top: false
 sticky: 
 titleTag: 
 description: 打开设置 ------ 应用 ------ 可选功能 ------ 添加功能 ------ 找到 OpenSSH、OpenSSH 选择安装就可以了。
-coverImg: blog/CoverImg.png
+coverImg: blog/CoverImg-2.png
 ---
 
 # Win10 开启 OpenSSH

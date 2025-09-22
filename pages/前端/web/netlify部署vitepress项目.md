@@ -1,5 +1,5 @@
 ---
-date: 2024-10-26 12:48:45
+date: 2024-10-27 12:48:45
 title: netlify部署vitepress项目
 permalink: /pages/0b6fc5
 categories:

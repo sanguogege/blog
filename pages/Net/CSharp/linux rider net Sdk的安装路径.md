@@ -1,5 +1,5 @@
 ---
-date: 2025-06-29 11:07:30
+date: 2025-06-30 11:07:30
 title: linux rider net Sdk的安装路径
 permalink: /pages/c5cf00
 categories:
